@@ -1,4 +1,4 @@
-class Cocktail {
+class JsonData {
   static String getAllCockTail() {
     return """
     {
